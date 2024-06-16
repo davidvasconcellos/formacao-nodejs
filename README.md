@@ -1,15 +1,7 @@
 <!--START_SECTION:header-->
 <div align="center">
   <p align="center">
-    <img 
-      alt="NodeJS" 
-      src="./.github/assets/logo.png" 
-<<<<<<< HEAD
-      width="300px" 
-=======
-      width="350px" 
->>>>>>> 5d220f70eb43859155267b2c0480c3a174471edc
-    />
+    <img alt="NodeJS" src="./.github/assets/logo.png" width="350px"/>
     <h1>Formação: NodeJS Developer</h1>
   </p>
 </div>
