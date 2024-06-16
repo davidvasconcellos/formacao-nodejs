@@ -3,7 +3,7 @@
   <p align="center">
     <img 
       alt="NodeJS" 
-      src="./.github/assets/logo.webp" 
+      src="./.git/assets/logo.png" 
       width="100px" 
     />
     <h1>Formação: NodeJS Developer</h1>
