@@ -4,7 +4,7 @@
     <img 
       alt="NodeJS" 
       src="./.github/assets/logo.png" 
-      width="100px" 
+      width="350px" 
     />
     <h1>Formação: NodeJS Developer</h1>
   </p>
